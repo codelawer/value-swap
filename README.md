@@ -18,22 +18,7 @@ b = holder;
 
 [Live PyTut link](https://goo.gl/AEWUqm)
 
-[Parsons Practice](https://janke-learning.github.io/parsons-variables/)
-___
-
-### The Sketches
-
-![](./step-1.png)
-![](./step-2.png)
-![](./step-3.png)
-![](./step-4.png)
-![](./step-5.png)
-![](./step-6.png)
-![](./step-final.png)
-
-___
-
-![](./final-state.png)
+[Parsons Practice](https://janke-learning.github.io/parsonizer/?challenge=108-101-116-32-97-32-61-32-39-97-39-59-10-108-101-116-32-98-32-61-32-39-98-39-59-10-108-101-116-32-104-111-108-100-101-114-32-61-32-117-110-100-101-102-105-110-101-100-59-10-10-104-111-108-100-101-114-32-61-32-97-59-10-97-32-61-32-98-59-10-98-32-61-32-104-111-108-100-101-114-59)
 
 ___
 ___
